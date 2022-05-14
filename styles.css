@@ -1,0 +1,56 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+
+.mybg-header {
+    background-color: #89CFF0;
+}
+
+.hero-title {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 1.75rem;
+}
+
+.myborder-hero {
+    border: 1px solid #89CFF0;
+}
+
+.mysubheader {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.myskillbox {
+
+}
+
+.footer {
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+ }
