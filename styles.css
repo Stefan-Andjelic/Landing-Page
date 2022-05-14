@@ -19,19 +19,31 @@
 .mysubheader {
     text-align: center;
     margin-top: 3rem;
+    margin-bottom: 2rem;
     font-size: 2.5rem;
     font-weight: 500;
 }
 
-.myskillbox {
+.skillbox {
+    margin-bottom: 3rem;
+}
 
+.skill {
+    margin-left: 5px;
 }
 
 .myproject-border {
     border-top: 1px solid #89CFF0;
 }
 
-.footer {
+.myfooter {
+    text-align: center;
+    padding: 2rem;
+}
+
+.myfooter h3 {
+    font-size: 4rem;
+    margin-bottom: 3rem;
 }
 
 /* // Small devices (landscape phones, 576px and up) */
